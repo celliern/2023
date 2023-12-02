@@ -1,0 +1,6 @@
+[submodule "day-01"]
+	path = day-01
+	url = ./day-01/
+[submodule "day-02"]
+	path = day-02
+	url = ./day-02/
